@@ -1,0 +1,13 @@
+body {
+  font-family: "Raleway", sans-serif;
+  height: 100%;
+  margin: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.div1
+{
+  padding: 40px;
+}
